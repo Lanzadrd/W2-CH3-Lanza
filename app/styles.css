@@ -52,7 +52,6 @@ body {
   padding: 1rem;
   position: relative;
   background: linear-gradient(to right, rgb(2, 8, 44), rgb(63, 105, 243));
-  padding: 3px;
 }
 
 #number {
